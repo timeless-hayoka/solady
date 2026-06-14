@@ -181,3 +181,7 @@ This repository is inspired by or directly modified from many sources, primarily
 
 [docs-shield]: https://img.shields.io/badge/docs-%F0%9F%93%84-blue
 [docs-url]: https://vectorized.github.io/solady
+
+---
+**Support the Contributor:**
+[Buy Me A Coffee - TimelessHayoka](https://buymeacoffee.com/timelesshayoka)
